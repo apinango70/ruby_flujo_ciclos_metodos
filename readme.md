@@ -69,5 +69,5 @@ _Para ejecutar este proyecto debes tener instaldo: **Ruby**
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia GNU
+Este proyecto está bajo la Licencia GNU.
 
