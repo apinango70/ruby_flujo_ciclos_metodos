@@ -35,7 +35,7 @@ _Muestra la tabla de multiplicar del 0 al 9 en pantalla, si se quiere mostrar la
 
 ### trangulo.rb
 
-_Muestra en pantalla un triángulo hecho con ** "*" ** de la altura especificada. Para especificar la altura se debe ejecutar el programa de la siguiente manera:
+_Muestra en pantalla un triángulo hecho con **"*"** de la altura especificada. Para especificar la altura se debe ejecutar el programa de la siguiente manera:
 
 `ruby triangulo.rb 8`
 
