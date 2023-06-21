@@ -41,7 +41,7 @@ _Muestra en pantalla un triángulo hecho con **"*"** de la altura especificada. 
 
 De esta manera mostrará un triángulo de altura y base 8.
 
-Si sequiere cambiar el ** "*" ** por otro caracter, se debe indicar el caracter deseado en la siguiente línea:
+Si se quiere cambiar el **"*"** por otro caracter, se debe indicar el caracter deseado en la siguiente línea:
 
 `puts '*' * (2 * i + 1)`
 
